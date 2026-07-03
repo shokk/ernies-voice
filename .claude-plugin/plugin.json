@@ -1,0 +1,10 @@
+{
+  "name": "ernies-voice",
+  "version": "1.0.0",
+  "description": "Apply Ernie Oporto's writing voice and style for content generation.",
+  "author": {
+    "name": "Ernie Oporto"
+  },
+  "license": "MIT",
+  "keywords": ["writing", "style", "voice"]
+}
