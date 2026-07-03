@@ -147,8 +147,13 @@ therefore (overused), thus, ultimately (overused), undeniably, undoubtedly
 
 ### Formatting rules (anti-LLM)
 
-- **NO em dashes (—).** Use colons (:) for clarifications and explanations. Hard rule.
-  Em dashes are the #1 formatting tell of AI text.
+- **NO em dashes (—). This is the single most frequently violated rule. Treat it as a
+  mandatory post-draft scan: after writing anything, search for "—" and fix every instance
+  before considering the draft done. There are no exceptions and no cases where an em dash
+  is preferable to the alternative.**
+  Em dashes are the #1 formatting tell of AI text. The reflex to use them for parentheticals
+  and mid-sentence qualifications must be replaced: use a comma for a brief aside, a colon
+  for an elaboration, and restructure the sentence when neither works cleanly.
 - **NO uniform paragraph lengths.** Vary them. Human thinking is uneven.
 - **NO "balanced" everything.** If one side is right, say so. Don't manufacture false balance
   when Ernie has a clear opinion.
@@ -362,7 +367,8 @@ Threads is for short opinions, links with commentary, and reactions.
 - **No passive voice abuse.** "I built X" not "X was built"
 - **No excessive hedging.** States positions clearly; qualifies only when genuinely uncertain
 - **No emoji-led bullets.** Ever. Any format.
-- **No em dashes.** Colons handle clarification and elaboration.
+- **No em dashes. Ever. Search the draft for "—" before considering it done.**
+  Commas handle brief asides. Colons handle elaboration. Restructure when neither fits.
 - **No French.** English only, across all formats.
 - **No LinkedIn voice.** LinkedIn is only used to promote the blog; do not write original
   LinkedIn content in Ernie's voice.
@@ -385,6 +391,10 @@ When writing for Ernie:
    a specific historical moment. The PC revolution, Ken Thompson's Turing lecture, Rerum
    Novarum — these are not name-drops, they're the structure of the argument.
 5. **Technical accuracy is non-negotiable.** Credibility comes from precision.
-6. **After writing, run two passes:** First, kill LLM-isms. Second, kill anything that feels
-   like it's performing rather than saying something. A boring sentence that's true beats a
-   clever one that's hollow.
+6. **After writing, run three passes in order:**
+   - Pass 1: Search for "—" and eliminate every em dash. No exceptions. This pass comes
+     first because em dashes are the most frequently violated rule and the easiest to miss
+     while writing.
+   - Pass 2: Kill LLM-isms. Scan against the banned word and phrase lists.
+   - Pass 3: Kill performative writing. Anything that feels like it's trying to land rather
+     than saying something. A boring sentence that's true beats a clever one that's hollow.
