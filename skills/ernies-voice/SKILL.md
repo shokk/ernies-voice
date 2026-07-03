@@ -122,6 +122,11 @@ therefore (overused), thus, ultimately (overused), undeniably, undoubtedly
 - "Here's the kicker..."
 - "But here's the thing..."
 
+**Vague positional phrases — NEVER:**
+- "At the intersection of..." / "The intersection of..."
+- "At the crossroads of..."
+- "Where X meets Y" (as a structural frame, not a description)
+
 **Structural gimmicks — NEVER:**
 - Compulsive triads: "fast, efficient, and scalable" — vary list lengths
 - Machine-gunned short sentences: "You tried. You learned. You improved."
