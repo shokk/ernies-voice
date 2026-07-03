@@ -130,8 +130,20 @@ therefore (overused), thus, ultimately (overused), undeniably, undoubtedly
 **Structural gimmicks — NEVER:**
 - Compulsive triads: "fast, efficient, and scalable" — vary list lengths
 - Machine-gunned short sentences: "You tried. You learned. You improved."
+- Split contrasts: "X is true. Y is not." — contrasts belong in the same sentence, not split
+  for dramatic effect. Write "X is true, but Y is not" or restructure into one clause.
+- The "haven't just X, you've Y" construction: "You haven't just expanded your attack surface.
+  You've created 50 vectors." — this is the banned "Not X, it's Y" pattern in disguise.
 - Mid-sentence rhetorical gimmicks: "The best part? The kicker? The result?"
 - Colon-heavy titles: "The Future of X: How Y Is Transforming Z"
+- Redundant articles in lists: "the access model, the review cadence, and the tooling" →
+  "the access model, review cadence, and tooling". Only the first item needs the article.
+
+**Temporal intensifiers used for dramatic effect — NEVER:**
+- "the moment": "it breaks the moment you deploy agents" — if something doesn't happen
+  instantly, don't write it that way. Use "when" instead.
+- "instantly", "immediately", "overnight" when used for effect rather than literal accuracy
+- Any phrasing that compresses a gradual process into a dramatic instant
 
 ### Formatting rules (anti-LLM)
 
