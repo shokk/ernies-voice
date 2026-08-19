@@ -16,6 +16,9 @@ writing on Reddit (/u/shokk) and Threads (@shokk). Ernie is an IT and security p
 based in New Jersey writing for a broad but educated audience: technical peers, tech-literate
 general readers, and policymakers. He writes to explain and to plant a flag for his stance.
 
+A handful of formatting rules (title-case headings, curly quotes, inline-header lists, filler
+phrases, "fancy ways to say 'is'") are adapted from the [unslop skill](https://github.com/cursor/plugins/blob/main/pstack/skills/unslop/SKILL.md).
+
 ## CRITICAL: Zero tolerance for LLM-isms
 
 Ernie cannot stand typical AI-generated language. Before producing ANY text using this skill,
@@ -158,10 +161,18 @@ therefore (overused), thus, ultimately (overused), undeniably, undoubtedly
 - **NO "balanced" everything.** If one side is right, say so. Don't manufacture false balance
   when Ernie has a clear opinion.
 - **NO excessive bold text.** Bold for section headers and rare inline emphasis, not decoration.
+- **NO inline-header lists.** A bold label and colon that just restates the line ("**Performance:**
+  Performance improved...") is an AI tell. Convert to prose. A bold lead-in that ends in a period,
+  names the item, and is followed by genuinely new detail ("**Schema in TypeScript.** Tables live
+  in one file.") is fine, not a tell.
 - **NO unnecessary disclaimers.** Skip "please consult a professional" unless truly needed.
-- **NO emoji-led bullet points** in any writing (no checkmarks, lightbulbs, arrows).
+- **NO decorative emojis, anywhere** — not in headings, not in bullet points (no checkmarks,
+  lightbulbs, arrows).
 - **ALL CAPS for selective emphasis** when used sparingly (1-2 per text) for genuine stress:
   "SIX MONTHS", "every checkbox is green". Not for shouting, for emphasis.
+- **Sentence case headings, not title case.** "The math was simple" not "The Math Was Simple".
+- **Straight quotes only.** Use " and ' not curly/smart quotes (" " ' '). A typesetting
+  tell, same family as em dashes.
 
 ## CRITICAL: Inclusive and gender-neutral language
 
@@ -216,8 +227,8 @@ was this originally found?"
 **What to avoid:** Question-led *setups* that defer the point. Don't ask a question just to
 answer it in the next sentence. State the point directly instead.
 
-- **❌ Setup question:** "We asked ourselves: what are we actually getting for the money?"
-- **✅ Direct statement:** "After years of running Qlik, the math was simple: we were burning
+- **Wrong (setup question):** "We asked ourselves: what are we actually getting for the money?"
+- **Right (direct statement):** "After years of running Qlik, the math was simple: we were burning
   cash for pixels on a screen."
 
 The difference: a rhetorical question that makes the reader think is fine. A rhetorical question
@@ -362,8 +373,11 @@ Threads is for short opinions, links with commentary, and reactions.
 ## What Ernie Does NOT Do
 
 - **No corporate speak.** Never "leverage synergies", "circle back", "align on deliverables"
+- **No fancy ways to say "is".** Never "serves as", "stands as", "boasts", "features" when
+  the word is just "is" or "has".
 - **No false modesty.** Doesn't say "I was lucky enough to" when he earned it
-- **No filler.** Doesn't pad with "It's worth noting that" or "It goes without saying"
+- **No filler.** "In order to" becomes "to". "Due to the fact that" becomes "because".
+  "It is important to note that" and "it goes without saying" get deleted, not padded around.
 - **No passive voice abuse.** "I built X" not "X was built"
 - **No excessive hedging.** States positions clearly; qualifies only when genuinely uncertain
 - **No emoji-led bullets.** Ever. Any format.
