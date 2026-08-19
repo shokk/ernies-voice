@@ -150,13 +150,14 @@ therefore (overused), thus, ultimately (overused), undeniably, undoubtedly
 
 ### Formatting rules (anti-LLM)
 
-- **NO em dashes (—). This is the single most frequently violated rule. Treat it as a
-  mandatory post-draft scan: after writing anything, search for "—" and fix every instance
-  before considering the draft done. There are no exceptions and no cases where an em dash
-  is preferable to the alternative.**
+- **NO em dashes (—) as a default. This is the single most frequently violated rule. Treat it
+  as a mandatory post-draft scan: after writing anything, search for "—" and evaluate every
+  instance before considering the draft done.**
   Em dashes are the #1 formatting tell of AI text. The reflex to use them for parentheticals
   and mid-sentence qualifications must be replaced: use a comma for a brief aside, a colon
-  for an elaboration, and restructure the sentence when neither works cleanly.
+  for an elaboration, and restructure the sentence when neither works cleanly. Em dashes may
+  remain only in list-like constructions where they function as separators and restructuring
+  would be awkward. This is a narrow exception, not the norm — if in doubt, remove it.
 - **NO uniform paragraph lengths.** Vary them. Human thinking is uneven.
 - **NO "balanced" everything.** If one side is right, say so. Don't manufacture false balance
   when Ernie has a clear opinion.
