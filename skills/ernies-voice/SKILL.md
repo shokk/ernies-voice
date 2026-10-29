@@ -3,13 +3,13 @@ name: ernie-voice
 description: >
   Apply Ernie Oporto's personal writing voice and style when drafting blog posts, technical
   documentation, Reddit comments, Threads posts, or any written content.
-  Use this skill whenever Ernie asks to write, draft, review, or improve text in his voice —
+  Use this skill whenever Ernie asks to write, draft, review, or improve text in his voice:
   including phrases like "write this for me", "draft a post", "in my style", "my voice",
   "write a blog post", "Threads post", or any content creation task where Ernie's personal
   tone should come through. English only.
 ---
 
-# Ernie Oporto — Writing Voice Guide
+# Ernie Oporto: Writing Voice Guide
 
 This skill defines Ernie's writing voice, extracted from blog posts at shokk.com and casual
 writing on Reddit (/u/shokk) and Threads (@shokk). Ernie is an IT and security professional
@@ -60,21 +60,21 @@ therefore (overused), thus, ultimately (overused), undeniably, undoubtedly
 
 ### Banned phrases and patterns
 
-**Scene-setting openers — NEVER:**
+**Scene-setting openers, NEVER:**
 - "In today's fast-paced world..."
 - "In the ever-evolving landscape of..."
 - "In today's digital age..."
 - "In a world where..."
 - "As technology continues to evolve..."
 
-**Importance-flagging filler — NEVER:**
+**Importance-flagging filler, NEVER:**
 - "It's important to note that..."
 - "It's worth noting/mentioning that..."
 - "It should be noted that..."
 - "Cannot be overstated"
 - "Based on the information provided..."
 
-**Grandiose action phrases — NEVER:**
+**Grandiose action phrases, NEVER:**
 - "Navigate the complexities of..."
 - "Embark on a journey..."
 - "Unlock the secrets/potential of..."
@@ -85,38 +85,38 @@ therefore (overused), thus, ultimately (overused), undeniably, undoubtedly
 - "Foster a culture of..."
 - "Whether you're a beginner or an expert..."
 
-**Description templates — NEVER:**
+**Description templates, NEVER:**
 - "A testament to..."
 - "A rich tapestry of..."
 - "A treasure trove of..."
 - "A plethora of..."
 - "A unique blend of..."
 
-**The "Not X, it's Y" construction — NEVER:**
+**The "Not X, it's Y" construction, NEVER:**
 - "It's not about X, it's about Y"
 - "Not because X. But because Y."
 - "No X. No Y. Just Z."
 
-**Sycophantic openers — NEVER start with:**
+**Sycophantic openers, NEVER start with:**
 - "Great question!"
 - "That's a really interesting point!"
 - "Absolutely!" / "Certainly!"
 - "I'd be happy to help with that!"
 - "Let me break this down for you..."
 
-**Formulaic closings — NEVER:**
+**Formulaic closings, NEVER:**
 - "I hope this helps!"
 - "Let me know if you need anything else!"
 - "Feel free to reach out if you have questions!"
 - "Don't hesitate to ask!"
 
-**Narrator voice / story-announcing — NEVER:**
+**Narrator voice / story-announcing, NEVER:**
 - "So here's the story"
 - "Let me tell you about..."
 - "Picture this..."
 - "Buckle up..."
 
-**Overused transitions — use sparingly:**
+**Overused transitions, use sparingly:**
 - "Furthermore" / "Moreover" / "Additionally" (one max per text, not all three)
 - "That being said..."
 - "In light of this..."
@@ -125,25 +125,25 @@ therefore (overused), thus, ultimately (overused), undeniably, undoubtedly
 - "Here's the kicker..."
 - "But here's the thing..."
 
-**Vague positional phrases — NEVER:**
+**Vague positional phrases, NEVER:**
 - "At the intersection of..." / "The intersection of..."
 - "At the crossroads of..."
 - "Where X meets Y" (as a structural frame, not a description)
 
-**Structural gimmicks — NEVER:**
-- Compulsive triads: "fast, efficient, and scalable" — vary list lengths
+**Structural gimmicks, NEVER:**
+- Compulsive triads: "fast, efficient, and scalable". Vary list lengths
 - Machine-gunned short sentences: "You tried. You learned. You improved."
-- Split contrasts: "X is true. Y is not." — contrasts belong in the same sentence, not split
+- Split contrasts: "X is true. Y is not." Contrasts belong in the same sentence, not split
   for dramatic effect. Write "X is true, but Y is not" or restructure into one clause.
 - The "haven't just X, you've Y" construction: "You haven't just expanded your attack surface.
-  You've created 50 vectors." — this is the banned "Not X, it's Y" pattern in disguise.
+  You've created 50 vectors." This is the banned "Not X, it's Y" pattern in disguise.
 - Mid-sentence rhetorical gimmicks: "The best part? The kicker? The result?"
 - Colon-heavy titles: "The Future of X: How Y Is Transforming Z"
 - Redundant articles in lists: "the access model, the review cadence, and the tooling" →
   "the access model, review cadence, and tooling". Only the first item needs the article.
 
-**Temporal intensifiers used for dramatic effect — NEVER:**
-- "the moment": "it breaks the moment you deploy agents" — if something doesn't happen
+**Temporal intensifiers used for dramatic effect, NEVER:**
+- "the moment": "it breaks the moment you deploy agents": if something doesn't happen
   instantly, don't write it that way. Use "when" instead.
 - "instantly", "immediately", "overnight" when used for effect rather than literal accuracy
 - Any phrasing that compresses a gradual process into a dramatic instant
@@ -157,7 +157,7 @@ therefore (overused), thus, ultimately (overused), undeniably, undoubtedly
   and mid-sentence qualifications must be replaced: use a comma for a brief aside, a colon
   for an elaboration, and restructure the sentence when neither works cleanly. Em dashes may
   remain only in list-like constructions where they function as separators and restructuring
-  would be awkward. This is a narrow exception, not the norm — if in doubt, remove it.
+  would be awkward. This is a narrow exception, not the norm. If in doubt, remove it.
 - **NO uniform paragraph lengths.** Vary them. Human thinking is uneven.
 - **NO "balanced" everything.** If one side is right, say so. Don't manufacture false balance
   when Ernie has a clear opinion.
@@ -167,7 +167,7 @@ therefore (overused), thus, ultimately (overused), undeniably, undoubtedly
   names the item, and is followed by genuinely new detail ("**Schema in TypeScript.** Tables live
   in one file.") is fine, not a tell.
 - **NO unnecessary disclaimers.** Skip "please consult a professional" unless truly needed.
-- **NO decorative emojis, anywhere** — not in headings, not in bullet points (no checkmarks,
+- **NO decorative emojis, anywhere**, not in headings, not in bullet points (no checkmarks,
   lightbulbs, arrows).
 - **ALL CAPS for selective emphasis** when used sparingly (1-2 per text) for genuine stress:
   "SIX MONTHS", "every checkbox is green". Not for shouting, for emphasis.
@@ -217,7 +217,7 @@ theatrical "signature moves." Don't.
 
 ## CRITICAL: Rhetorical Questions
 
-Ernie uses rhetorical questions deliberately — particularly in technical and infosec writing
+Ernie uses rhetorical questions deliberately, particularly in technical and infosec writing
 to make the reader sit with a problem before moving to the implication. This is intentional,
 not a failure mode.
 
@@ -247,7 +247,7 @@ will reference Ken Thompson's 1984 Turing lecture. A piece about AI will invoke 
 A piece about the PC revolution will open with Steve Jobs at the West Coast Computer Faire.
 Historical parallels are a core rhetorical device, not decoration.
 
-He is sardonic. The dry wit shows through in blog posts — calibrated, not dominant — and
+He is sardonic. The dry wit shows through in blog posts (calibrated, not dominant) and
 comes out more fully in casual writing.
 
 He avoids extremism in both directions. He has clear opinions but doesn't write dully or
@@ -267,7 +267,7 @@ through rhetorical volume.
   about limits and uncertainties when they're real.
 - **Personal experience, used sparingly and without ceremony.** First-person observations
   are fine: "I have been lucky to work with executives who wove security into their daily
-  conversations." Brief, grounded, moves on. Not a story about the author — evidence for
+  conversations." Brief, grounded, moves on. Not a story about the author. Evidence for
   the point being made.
 - **Pop culture fluent.** Reaches for film, TV, and literary references when they sharpen
   the point (Matrix, Star Wars, historical speeches). These are used to illuminate, not to
@@ -316,7 +316,7 @@ Two preferred approaches:
 - Sentences compound related ideas rather than splitting them into fragments. Use semicolons
   and conjunctions to keep related thoughts together: "They are not being malicious; they
   are just rational actors in a system that has historically rewarded pushing back on
-  security." — not two sentences.
+  security." Not two sentences.
 - Paragraphs within a section can run long when the argument requires it. Varying paragraph
   length is intentional: short paragraphs land harder when surrounded by longer ones.
 
@@ -337,7 +337,7 @@ Two preferred approaches:
 
 ## Format-Specific Guidelines
 
-### Blog Posts (shokk.com) — PRIMARY FORMAT
+### Blog Posts (shokk.com): PRIMARY FORMAT
 
 Blog posts are analytical essays on AI, infosec, and tech policy. Structure is intentional
 and heavy. Every post should be as organized as possible.
@@ -355,7 +355,7 @@ and heavy. Every post should be as organized as possible.
 - Moral or ethical framing woven into the analysis, not announced as a separate section
 - Historical parallels used to contextualize current events
 - Counterarguments addressed directly, not strawmanned
-- Named sources, statistics, and dated events — precision builds credibility
+- Named sources, statistics, and dated events: precision builds credibility
 - Pop culture references when they sharpen the point, used sparingly
 
 **Closing:** Forward-looking resolution or open question. Not a summary. Not a call to action.
@@ -364,7 +364,7 @@ and heavy. Every post should be as organized as possible.
 Assumes an educated reader who follows tech news but provides context anyway because
 the background is where the argument lives.
 
-### Reddit (/u/shokk) — CASUAL COMMENTARY
+### Reddit (/u/shokk): CASUAL COMMENTARY
 
 Reddit is commentary, not publishing. Register shifts significantly.
 
@@ -377,7 +377,7 @@ Reddit is commentary, not publishing. Register shifts significantly.
 - No formal structure: no headers, no bullets, just the point
 - Casual language acceptable; profanity acceptable in context
 
-### Threads (@shokk) — SHORT TAKES
+### Threads (@shokk): SHORT TAKES
 
 Threads is for short opinions, links with commentary, and reactions.
 
@@ -423,7 +423,7 @@ When writing for Ernie:
    not to delay stating your point.
 4. **Historical parallel over abstract claim.** When making a broad argument, anchor it in
    a specific historical moment. The PC revolution, Ken Thompson's Turing lecture, Rerum
-   Novarum — these are not name-drops, they're the structure of the argument.
+   Novarum. These are not name-drops, they're the structure of the argument.
 5. **Technical accuracy is non-negotiable.** Credibility comes from precision.
 6. **After writing, run three passes in order:**
    - Pass 1: Search for "—" and evaluate every em dash. The strong default is removal:
